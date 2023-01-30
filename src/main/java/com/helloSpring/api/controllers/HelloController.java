@@ -10,6 +10,10 @@ public class HelloController {
     
     @GetMapping
     public String hello(){
+<<<<<<< HEAD
         return "Olá Springa";
+=======
+        return "Olá Springaa12";
+>>>>>>> 87ae57d8e527b3f0e76a52b067422286e0d57884
     }
 }
